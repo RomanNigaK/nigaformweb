@@ -1,0 +1,31 @@
+.exampleForm{
+  display: flex;
+  width: 500px;
+  border:1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+  display: block;
+ 
+}
+
+.login{
+  padding: 10px;
+  border: 2px solid burlywood;
+  border-radius: 5px;
+}
+input{
+  padding: 5px;
+  font-size: 14pt;
+}
+.hint{
+  color:yellow;
+}
+.result{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.inpt{
+  background-color:aqua
+}

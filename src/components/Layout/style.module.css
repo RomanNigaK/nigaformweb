@@ -1,0 +1,22 @@
+.header {
+    display:flex;
+    height:100px;
+    align-items:center;
+    background-color:burlywood;
+    justify-content:center;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    align-items: center;
+    background-color: antiquewhite;
+    border-bottom: 3px solid burlywood;
+}
+.menu div{
+    padding:10px;
+}
+.activeLink{
+    font-weight:bold;
+}

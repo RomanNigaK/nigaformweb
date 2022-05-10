@@ -1,0 +1,46 @@
+.page {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.content {
+    background-color: antiquewhite;
+    width: 80%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+p {
+    text-indent: 30px;
+}
+
+.p1 {
+    font-size: 14pt;
+}
+
+.p2 {
+    font-size: 12pt;
+}
+
+.btn {
+    width: 200px;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+.textCode{
+    margin-left:20px;
+    background-color: black;
+    color:white;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
